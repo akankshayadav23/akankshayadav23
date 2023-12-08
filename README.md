@@ -1,16 +1,29 @@
-### Hi there 👋
+#About Me
 
-<!--
-**akankshayadav23/akankshayadav23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋Hello there! I'm Akanksha Yadav, a passionate individual with a love for data and a zest for continuous learning.
 
-Here are some ideas to get you started:
+🧑‍🎓 Educational Journey📚:
+I recently completed an intensive Master's in Data Science, immersing myself in the world of data analytics, machine learning, and visualization. The courses equipped me with proficiency in Python, and a deep understanding of data manipulation techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👜 Current Aspiration:
+Now, I'm on the lookout for a role that aligns with my newfound expertise in data science. I am excited about the prospect of applying my skills in a dynamic work environment, contributing to meaningful projects, and continuing my growth journey. 
+
+# Skills
+  ▫️Python
+  ▫️Tableau 
+  ▫️Machine Learning 
+  ▫️MySQL
+  ▫️Data Visualization 
+
+####Seeking Opportunities In:       
+  ▫️Data Science 
+  ▫️Machine Learning 
+  ▫️Data Analytics 
+
+#🌐Connect with Me:
+  ▫️Gmail : ashyadav7890@gmail.com 
+  ▫️Github: [github.com/akankshayadav23](github.com/akankshayadav23)
+
+  
+  
