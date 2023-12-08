@@ -1,5 +1,4 @@
-#About Me
-
+# About Me
 👋Hello there! I'm Akanksha Yadav, a passionate individual with a love for data and a zest for continuous learning.
 
 🧑‍🎓 Educational Journey📚:
@@ -16,12 +15,12 @@ Now, I'm on the lookout for a role that aligns with my newfound expertise in dat
   ▫️MySQL
   ▫️Data Visualization 
 
-####Seeking Opportunities In:       
+#### Seeking Opportunities In:       
   ▫️Data Science 
   ▫️Machine Learning 
   ▫️Data Analytics 
 
-#🌐Connect with Me:
+# 🌐Connect with Me:
   ▫️Gmail : ashyadav7890@gmail.com 
   ▫️Github: [github.com/akankshayadav23](github.com/akankshayadav23)
 
